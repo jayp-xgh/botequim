@@ -1,0 +1,15 @@
+{
+    "name": "jayp/project-php",
+    "autoload": {
+        "psr-4": {
+            "Jayp\\ProjectPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jayp-zip",
+            "email": "joaovitorpereiramartins.2004@gmail.com"
+        }
+    ],
+    "require": {}
+}
