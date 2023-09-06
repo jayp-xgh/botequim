@@ -17,7 +17,7 @@
     <open-files />
   </component>
   <component name="DBNavigator.Project.FileConnectionMappingManager">
-    <mapping file-url="file://$PROJECT_DIR$/public/tables.sql" connection-id="" session-id="MAIN" current-schema="" />
+    <mapping file-url="file://$PROJECT_DIR$/database/tables.sql" connection-id="" session-id="MAIN" current-schema="" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />

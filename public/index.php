@@ -1,7 +1,6 @@
 <?php
-use Jayp\ProjectPhp\app\User;
-
-require '../vendor/autoload.php';
-
-$user = new User;
-echo $user->create();
+require __DIR__ . '/../vendor/autoload.php';
+use Jayp\Config\Database;
+$dotenv = Dotenv\Dotenv::createImmutable (__DIR__ . '/../');
+$dotenv->load();
+$db = Database::getInstance();

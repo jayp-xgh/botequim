@@ -2,7 +2,8 @@
     "name": "jayp/project-php",
     "autoload": {
         "psr-4": {
-            "Jayp\\ProjectPhp\\": "src/"
+            "Jayp\\": "src/",
+            "Jayp\\Config\\": "config/"
         }
     },
     "authors": [
@@ -11,5 +12,7 @@
             "email": "joaovitorpereiramartins.2004@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
 }

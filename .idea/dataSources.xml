@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="@127.0.0.1" uuid="c8192d29-c79d-4ccd-be12-c6f26711b48f">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://127.0.0.1:3307</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-    </data-source>
-    <data-source source="LOCAL" name="PROJECT_PHP@127.0.0.1" uuid="fc97ea5e-a410-43cb-8549-6cf8db5a9a12">
+    <data-source source="LOCAL" name="PROJECT_PHP@127.0.0.1" uuid="2f4913bc-d4bc-4b74-ba72-17336546ac20">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
